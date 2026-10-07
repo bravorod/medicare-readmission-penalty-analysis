@@ -18,6 +18,7 @@ Every year, Medicare checks how often patients return to each hospital after tre
 
 - **The fines add up to about $377M a year.** 78% of hospitals in the program (2,304 of 2,945) are penalized in fiscal year 2026.
 - **Two conditions cause most of it.** Pneumonia ($122M) and heart failure ($85M) make up over half of all penalty dollars.
+- **Most hospitals have one main problem.** At 85% of penalized hospitals (1,950 of 2,304), a single condition causes half or more of the penalty. Pneumonia is the main driver most often (35% of hospitals), followed by heart failure (27%).
 - **A small group carries much of the cost.** 175 hospitals lose $500K or more a year. They're 8% of penalized hospitals but pay 45% of the total.
 - **One focused fix saves real money.** If hospitals cut pneumonia readmissions by 10%, they'd keep about $107M a year, and 1,315 hospitals would pay less.
 - **The fines track patient ratings, not deaths.** Hospitals with the biggest penalties were far less likely to earn 4–5 star patient ratings (20% vs 53%), but their death rates were about the same as everyone else's.
@@ -28,7 +29,7 @@ This compares hospitals side by side. It doesn't prove that one thing causes the
 
 ## What a hospital should do
 
-1. **Start with the condition behind most of your penalty.** For most hospitals, one condition makes up the biggest share, so that's where improvement pays off first.
+1. **Start with the condition behind most of your penalty.** At 85% of penalized hospitals, one condition causes at least half the penalty, so fixing that one condition pays off first.
 2. **Aim for the level of similar hospitals, not beyond it.** Medicare only fines readmissions above that level. Once a hospital reaches it, further improvement for that condition saves nothing on the penalty.
 
 ## How I know the numbers are right
