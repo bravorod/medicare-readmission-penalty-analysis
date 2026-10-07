@@ -1,0 +1,4 @@
+penalty_group,group_order,n_hospitals,n_with_patient_rating,share_4_5_star_patient_rating,n_with_death_rate,avg_death_rate_pct
+Penalty under 1%,2,2064,1946,0.2857142857142857,2048,3.8692871093749925
+No penalty,1,641,469,0.5266524520255863,590,3.9049152542372907
+Penalty 1% or more,3,240,224,0.19642857142857142,235,3.971063829787234

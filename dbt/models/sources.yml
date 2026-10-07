@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw
+    tables:
+      - name: hrrp_penalties
+      - name: hrrp_readmissions
+      - name: inpatient_payments
+      - name: hospitals
+      - name: patient_survey
+      - name: death_rates

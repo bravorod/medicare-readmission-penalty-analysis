@@ -1,0 +1,9 @@
+name: medicare
+version: "1.0"
+profile: medicare
+
+models:
+  medicare:
+    +materialized: table
+    staging:
+      +materialized: view

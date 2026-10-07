@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: hospital_readmission_penalty
+    columns:
+      - name: facility_id
+        data_tests: [unique, not_null]
+      - name: penalty_pct
+        data_tests: [not_null]
+
+  - name: hospital_penalty_conditions
+    columns:
+      - name: hospital_condition_id
+        data_tests: [unique, not_null]
+
+  - name: stg_patient_survey
+    columns:
+      - name: facility_id
+        data_tests: [unique]
+
+  - name: stg_death_rates
+    columns:
+      - name: facility_id
+        data_tests: [unique]
